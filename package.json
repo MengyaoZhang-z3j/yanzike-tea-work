@@ -1,0 +1,16 @@
+{
+  "name": "yanzike-full-task1-task2-task3-task4",
+  "version": "1.0.0",
+  "description": "八年级地理·燕子窠生态茶园四任务交互式作业：任务一、任务二、任务三、任务四、首页和教师端。",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.3"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
